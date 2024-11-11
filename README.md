@@ -1,4 +1,5 @@
 # CS147_Lab3
+This lab focuses on Bluetooth Low Energy (BLE) and how it can be used in a Bluetooth-based step counter with a LSM6DSO accelerometer. 
 
 ## Part A: 
 - Made an LED flash on/off based on whether the mobile phone sends in the string "on"/"off" respectively.
